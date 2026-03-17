@@ -2,7 +2,7 @@
 This project presents an interactive Marketing Performance Dashboard built using Tableau to analyze key marketing metrics such as campaign performance, customer engagement, and revenue contribution.
 The dashboard helps businesses understand which marketing channels and campaigns generate the highest return on investment (ROI) and supports data-driven marketing decisions.
 
-## Business Problems
+## Business Problem
 
 Marketing teams run multiple campaigns across different channels, but it is difficult to identify:
 Which campaigns generate the most revenue
